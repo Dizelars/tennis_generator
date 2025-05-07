@@ -1,0 +1,25 @@
+{
+    "department": {
+      "design": {
+        "users": [
+          { "name": "Милана Порезанова", "direction": "web" },
+          { "name": "Маргарита Пазынюк", "direction": "web" },
+          { "name": "Евгения Балашова", "direction": "web" },
+          { "name": "Мария Первакова", "direction": "web" },
+          { "name": "Вадим Пьявкин", "direction": "web" },
+          { "name": "Ильмира Ахметзянова", "direction": "web" },
+          { "name": "Александр Кравец", "direction": "web" },
+          { "name": "Арсений Логачев", "direction": "web" },
+          { "name": "Екатерина Денисенко", "direction": "web" },
+          { "name": "Глеб Любавский", "direction": "web" },
+          { "name": "Тимофей Пенской", "direction": "web" },
+          { "name": "Александр Чулин", "direction": "web" },
+          { "name": "Анна Ткаченко", "direction": "graphic" },
+          { "name": "Елизавета Тимонина", "direction": "graphic" },
+          { "name": "Арсений Губанов", "direction": "graphic" },
+          { "name": "Дарья Джафарова", "direction": "graphic" },
+          { "name": "Валерий Моисеев", "direction": "graphic" }
+        ]
+      }
+    }
+  }
